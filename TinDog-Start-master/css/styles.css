@@ -1,0 +1,77 @@
+body{
+  font-family: "Montserrat";
+}
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 2.8rem;
+  line-height: 1.5;
+}
+h2{
+  font-weight: bold;
+  padding-bottom: 1.5rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+}
+
+em{
+  display:block;
+  font-weight: bold;
+}
+#title{
+  background-color: #ff4c68;
+}
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+}
+/* Simbolos Y Iconos */
+.icon_Simbol{
+  color: #ef8172;
+  padding-bottom: 1.2rem;
+  align-items: center;
+}
+.icon_Simbol:hover{
+  color:#ff4c68;
+}
+.feature-box{
+  text-align: center;
+  padding: 0 ;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+/* Download-Buttons */
+.download_Buttons{
+  margin: 5% 3% 5% 0%;
+}
+/* Images */
+.img_Title{
+  width: 60%;
+  transform: rotate(25deg);
+  margin-left: 30px;
+}
+///////////////////////
